@@ -261,7 +261,7 @@
         <commons-lang3-version>3.9</commons-lang3-version>
         <threetenbp-version>1.4.0</threetenbp-version>
         <maven-plugin-version>1.0.0</maven-plugin-version>
-        <javax-annotation-version>1.0</javax-annotation-version>
+        <javax-annotation-version>1.0-20050927.133100</javax-annotation-version>
         <junit-version>4.13</junit-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
